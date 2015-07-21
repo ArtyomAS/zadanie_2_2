@@ -1,0 +1,7 @@
+c:\users\сергей\documents\visual studio 2012\Projects\zadanie_2_2\zadanie_2_2\bin\Debug\zadanie_2_2.exe.config
+F:\ПРАКТИКА\zadanie_2_2\zadanie_2_2\bin\Debug\zadanie_2_2.exe.config
+F:\ПРАКТИКА\zadanie_2_2\zadanie_2_2\bin\Debug\zadanie_2_2.exe
+F:\ПРАКТИКА\zadanie_2_2\zadanie_2_2\bin\Debug\zadanie_2_2.pdb
+F:\ПРАКТИКА\zadanie_2_2\zadanie_2_2\obj\Debug\zadanie_2_2.csprojResolveAssemblyReference.cache
+F:\ПРАКТИКА\zadanie_2_2\zadanie_2_2\obj\Debug\zadanie_2_2.exe
+F:\ПРАКТИКА\zadanie_2_2\zadanie_2_2\obj\Debug\zadanie_2_2.pdb
